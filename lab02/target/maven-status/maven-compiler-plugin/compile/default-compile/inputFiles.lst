@@ -1,0 +1,12 @@
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/config/ApplicationInjector.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/mapper/StringByteArrayMapper.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/service/impl/FileServiceImpl.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/strategy/ApplicationStrategy.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/config/CommandLineConfig.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/utils/CommandLineUtils.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/service/impl/MessageDigestServiceImpl.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/Application.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/strategy/impl/FileCheckingStrategy.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/service/FileService.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/strategy/impl/HashingStrategy.java
+/Users/monjasa/nulp-local/IV/first/BPD/source/lab02/src/main/java/org/monjasa/lab02/service/MessageDigestService.java
